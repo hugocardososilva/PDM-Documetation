@@ -1,0 +1,50 @@
+Activity 1:
+===========
+
+Tela de apresentação do aplicativo.
+Conterá a logo da Unisigma ou do Aplicativo no centro, e permanecerá por um tempo.
+Nesse momento, será verificado se o usuário ja está logado ou não. Caso não esteja, será direcionado para a Activity 2. Ca
+so esteja, será direcionado para a Activity 3.
+
+Activity 2:
+===========
+
+Aparecerá uma tela de login, onde o usuário irá informar sua ID e sua senha para então logar.
+Em seguida, será direcionado para a Activity 3.
+
+Activity 3:
+===========
+
+Possuirá uma Home (retorna para a Activity 3) e um menu superior, onde irá indicar o usuário que está logado, um submenu 
+ao lado possuindo as seguintes opções:
+
+- Visualizar conta
+- Editar conta
+- Sair
+
+No centro, haverão outras opções:
+
+- Caixa de Mensagens (Activity 4)
+- Marcar o ponto (esta so estará habilitada se o GPS estiver habilitado e marcando as coordenadas da Unisigma)(Activity 5)
+- Visualizar histórico (Activity 6)
+- Visualizar horário diário/semanal (Activity 7)
+
+Activity 4:
+===========
+
+Abre uma activity onde está conterá uma caixa de mensagens vindas do servidor ou dos administradores do sistema.
+Conterá um botão de voltar.
+
+Activity 5:
+===========
+
+Abrirá uma tela pedindo o identificador do usuário e sua senha. Exibirá o horário marcado numa tabela.
+Conterá um botão de voltar.
+
+Activity 6:
+===========
+
+Activity 7:
+===========
+
+Visualização dos horários da Unisigma no dia, podendo mostrar o semanal.

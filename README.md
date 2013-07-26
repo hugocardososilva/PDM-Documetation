@@ -92,7 +92,7 @@ Específicos
 - Aplicação de disciplina na "assinatura" do sistema de ponto.
 - Facilidade na obtenção de estatisticas e relatórios.
 - Registro de membros.
-- 
+
  
 5. Metas:
 ========
@@ -124,6 +124,3 @@ Específicos
 	                                                       - 8.2.3 Tela - Opção de assinatura de ponto;
 	                                                       - 8.2.4 Tela(s) - Opção de visualização dos horários do dia / semana;
 	                                                       - 8.2.5 Tela - Caixa de mensagens (visualização de cada mensagem (tela));
-														   
-
-

@@ -1,0 +1,9 @@
+Escopo do Projeto PDM
+=====================
+
+Atividades as serem realizadas para a conclusão do projeto.
+___________________________________________________________
+
+1. Análise dos requisitos de negócio
+2. Análise dos requisitos de projeto
+3.
