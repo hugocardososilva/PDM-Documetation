@@ -4,6 +4,7 @@ PDM-Documetation
 Sistema de Ponto Digital
 ========================
 Atualizado: 25/07/2013
+Atualizado: 26/07/2013 - item 7, 8
 
 Dados:
 ======
@@ -107,4 +108,22 @@ Específicos
 - Controle da assinatura do ponto, recolhendo hora do servidor.
 - Registro do ponto e das faltas em um banco de dados.
 - Visualização das estatísticas dos membros.
+
+7. Requisitos de Layout
+=======================
+
+- Cores padrão: Branco e Laranja
+- Logomarca da Unisigma 
+
+8. Estrutura de Paginação
+=========================
+
+	8.1 Primeira tela: Login / Senha
+	8.2 Segunda tela: Página Inicial com alguns elementos: - 8.2.1 Tela - Home;
+ 	                                                       - 8.2.2 Menu - Mostrar que a pessoa está logada (ao clicar, abrir submenu de exibição de perfil (uma tela), alteração de dados (tela), logout(tela));
+	                                                       - 8.2.3 Tela - Opção de assinatura de ponto;
+	                                                       - 8.2.4 Tela(s) - Opção de visualização dos horários do dia / semana;
+	                                                       - 8.2.5 Tela - Caixa de mensagens (visualização de cada mensagem (tela));
+														   
+
 
