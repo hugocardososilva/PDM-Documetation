@@ -76,6 +76,8 @@ Inicial: criar um aplicativo de assinatura de ponto, onde este só aplicará a a
 indicando o local da Unisigma. Um banco seria consultado e se integraria ao aplicativo.
 [To elaborando ainda rsrs aberto a sugestões]
 
+?? O banco será o sqllite mesmo?? qual seriam os outros atributos para se incluir no projeto? 
+
 4. Objetivos:
 ============
 
